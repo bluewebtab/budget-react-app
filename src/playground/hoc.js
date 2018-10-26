@@ -1,7 +1,4 @@
-//Higher Order Component -A component (HOC) that render another component 
-//Reuse code
-//Render hijacking
-//Prop manipulation
+
 
 import React from 'react';
 import ReactDOM from 'react-dom';
