@@ -15,7 +15,7 @@ const filtersReducerDefaultState = {
       case 'SORT_BY_AMOUNT':
       return{
         ...state,
-        sortBY: 'amount'
+        sortBy: 'amount'
       }
       case 'SORT_BY_DATE':
       return{
